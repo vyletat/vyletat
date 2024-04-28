@@ -29,7 +29,8 @@ const aboutMe = {
 -->
 
 <p align="center">
-  <img src="https://github.com/vyletat/vyletat/assets/50928969/9f56d910-a803-4a26-8e85-d614971b99d2" style="padding:30px;width:500px;" /> 
+  <img src="https://github.com/vyletat/vyletat/assets/50928969/9f56d910-a803-4a26-8e85-d614971b99d2" style="width:400px;" />
+  <img src="(https://github.com/vyletat/vyletat/assets/50928969/fc61e1e7-5afd-4d36-aa62-2358aa658d81" style="width:400px;" /> 
 </p>
 
 <p align="center">
