@@ -159,6 +159,7 @@ const aboutMe = {
 </div>
 
 <br/>
+<img src="https://github.com/user-attachments/assets/813a217f-edb4-4c65-8d55-1823fb3f042a" style="width:300px;" />
 
 > The future belongs to those who believe in the beauty of their dreams.
 > 
